@@ -102,7 +102,7 @@ data.interval[which.max(data.interval$msteps),]
 ## 1      835 206.1698
 ```
 
-It is interval 875
+It is interval 835 with average 206.1698 steps 
 
 ## Imputing missing values
 
